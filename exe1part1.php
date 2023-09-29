@@ -15,7 +15,7 @@ if ($numero1 > $numero2) {
     echo "<br>";
 }
 
-//Verifica se $numero3 é menor igual $numero4
+//Verifica se $numero3 é menor igual  $numero4
 if ($numero3 <= $numero4) {
     echo "Sim";
     echo "<br>";
