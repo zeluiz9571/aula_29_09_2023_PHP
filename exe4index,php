@@ -1,0 +1,10 @@
+<?php 
+$velocidade = 40;
+
+if ($velocidade >= 41 && $velocidade <= 50) {
+    echo "Velocidade Correta";
+} else if ($velocidade == 41){
+    echo "Atenção";
+} else if ($velocidade = 50){
+    echo "Multado";
+}
