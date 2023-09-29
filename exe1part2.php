@@ -1,7 +1,7 @@
 <?php
 
-$pessoa1 = Robson;
-$pessoa2 = Pedro;
+$pessoa1 = "Robson";
+$pessoa2 = "Pedro";
 
 if ($pessoa1 === $pessoa2) {
     echo "Sim";
