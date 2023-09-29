@@ -1,4 +1,6 @@
 <?php 
+
+//Declaração de variável
 $velocidade = 40;
 
 if ($velocidade >= 41 && $velocidade <= 50) {
@@ -7,4 +9,6 @@ if ($velocidade >= 41 && $velocidade <= 50) {
     echo "Atenção";
 } else if ($velocidade = 50){
     echo "Multado";
+} else {
+    echo "Nada";
 }
