@@ -20,7 +20,7 @@ if ($numero3 <= $numero4) {
     echo "Sim";
     echo "<br>";
 } else {
-    echo "Sim";
+    echo "Não";
     echo "<br>";
 }
 
