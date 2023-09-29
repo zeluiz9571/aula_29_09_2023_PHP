@@ -12,3 +12,5 @@ if ($velocidade >= 41 && $velocidade <= 50) {
 } else {
     echo "Nada";
 }
+
+?>
